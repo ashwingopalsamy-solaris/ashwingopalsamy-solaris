@@ -1,3 +1,3 @@
-Hi, I’m **Ashwin Gopalsamy**. I engineer the **Core-banking** system at **Solaris SE**.<br>
+Howdy! I'm **Ashwin Gopalsamy.** I engineer the **Core-Banking** systems at **Solaris SE**.<br>
 
-This is a private account for managing my dev-tools at Solaris.
+This is my alter-ego’s hideout - a private account designed to be the playground for my dev-tools.
